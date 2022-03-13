@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9Y0Caa95xYbrXSIBqoGOlGSIgkcMTVmsK236NnBLsJLTGhOvEfc6apVEPlxYBtquQJbelhM0iP19j7vf5TFSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aishwarya Hutagi\\source\\repos\\CloudCpmouting08\\CloudCpmouting08\\CloudCpmouting08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aishwarya Hutagi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
